@@ -1,6 +1,6 @@
 <a href="kodi.tv">KODI<a> (XBMC/OSMC/Firestick) audio addon for the <a href="https://scheerpost.com/category/si-podcast/">Scheer Intelligence</a> podcast.<br>
 
-<img src="https://podcastaddict.com/cache/artwork/thumb/2322461"><br>
+<img src="https://github.com/leopheard/ScheerIntelligence/blob/master/resources/media/logo.jpg?raw=true"><br>
 
 <a href="https://www.npr.org/podcasts/470103082/k-c-r-w-s-scheer-intelligence">Scheer Intelligence</a> features thoughtful and provocative conversations with (American Originals) -- people who, through a lifetime of engagement with political issues, offer unique and often surprising perspectives on the day's most important issues.<br>
 

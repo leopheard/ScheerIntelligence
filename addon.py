@@ -9,11 +9,11 @@ def main_menu():
         {
             'label': plugin.get_string(30001), 
             'path': plugin.url_for('episodes1'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2322461"},
+            'thumbnail': "https://github.com/leopheard/ScheerIntelligence/blob/master/resources/media/logo.jpg?raw=true"},
         {
             'label': plugin.get_string(30000),
             'path': plugin.url_for('episodes'),
-            'thumbnail': "https://podcastaddict.com/cache/artwork/thumb/2322461"},
+            'thumbnail': "https://github.com/leopheard/ScheerIntelligence/blob/master/resources/media/logo.jpg?raw=true"},
     ]
     return items
 
